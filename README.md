@@ -39,6 +39,7 @@ To run this project, you need to have the following installed:
 You can install the dependencies by running:
 ```bash
 pip install -r requirements.txt
+```
 
 ## Installation
 1. Clone this repository:
