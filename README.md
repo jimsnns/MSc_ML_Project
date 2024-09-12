@@ -39,3 +39,24 @@ To run this project, you need to have the following installed:
 You can install the dependencies by running:
 ```bash
 pip install -r requirements.txt
+
+## Installation
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/yourusername/brats2020_segmentation.git
+    ```
+2. Navigate into the project directory:
+    ```bash
+    cd brats2020_segmentation
+    ```
+3. Install the necessary dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+1. Preprocess the data:
+   Run the preprocessing script to handle the MRI scans:
+   ```bash
+   python preprocess.py
+
