@@ -6,9 +6,7 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This project focuses on the segmentation of brain tumors using the [BraTS 2020](https://www.med.upenn.edu/cbica/brats2020/) dataset. The goal is to develop and evaluate machine learning models, specifically convolutional neural networks (CNNs), to automate the detection and segmentation of brain tumors from multimodal MRI scans.
@@ -44,11 +42,11 @@ pip install -r requirements.txt
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/brats2020_segmentation.git
+    git clone https://github.com/jimsnns/MSc_ML_Project.git
     ```
 2. Navigate into the project directory:
     ```bash
-    cd brats2020_segmentation
+    cd MSc_ML_Project
     ```
 3. Install the necessary dependencies:
     ```bash
@@ -56,8 +54,7 @@ pip install -r requirements.txt
     ```
 
 ## Usage
-1. Preprocess the data:
-   Run the preprocessing script to handle the MRI scans:
-   ```bash
-   python preprocess.py
+To run the Jupyter Notebook, open the file brats2020_training.ipynb from repository MSc_ML_Project, and run the code cell by cell by following the instructions.
 
+## Contributing
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
