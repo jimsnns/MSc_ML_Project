@@ -46,7 +46,7 @@ pip install -r requirements.txt
     ```
 2. Navigate into the project directory:
     ```bash
-    cd MSc_ML_Project
+    cd your_local_dir\MSc_ML_Project
     ```
 3. Install the necessary dependencies:
     ```bash
