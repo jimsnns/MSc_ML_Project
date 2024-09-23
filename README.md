@@ -9,7 +9,7 @@
 - [Contributing](#contributing)
 
 ## Project Overview
-This project, developed as part of the Master in Computer Science program at the Hellenic Open University (HOU), focuses on the segmentation of brain tumors using the BraTS 2020 dataset. The goal is to develop and evaluate machine learning models, specifically convolutional neural networks (CNNs), to automate the detection and segmentation of brain tumors from multimodal MRI scans. It focuses on the segmentation of brain tumors using the [BraTS 2020](https://www.med.upenn.edu/cbica/brats2020/) dataset.
+This project, developed as part of the **Master in Computer Science** program at the [**Hellenic Open University (HOU)**](https://www.eap.gr/en/postgraduate-specialization-in-information-systems/), focuses on the segmentation of brain tumors using the BraTS 2020 dataset. The goal is to develop and evaluate machine learning models, specifically convolutional neural networks (CNNs), to automate the detection and segmentation of brain tumors from multimodal MRI scans. It focuses on the segmentation of brain tumors using the [BraTS 2020](https://www.med.upenn.edu/cbica/brats2020/) dataset.
 
 ### Key Features:
 - Preprocessing and handling of MRI scans (NIfTI files).
